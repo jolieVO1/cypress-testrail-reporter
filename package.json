@@ -1,6 +1,6 @@
 {
-  "name": "hanoi-cypress-testrail-reporter",
-  "version": "2.2.0",
+  "name": "vn-cypress-testrail-reporter",
+  "version": "2.2.1",
   "description": "A Testrail reporter for cypress including TestRail API basic library",
   "main": "index.js",
   "private": false,
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vietnq254/hanoi-cypress-testrail-reporter.git"
+    "url": "git+https://github.com/jolieVO1/cypress-testrail-reporter.git"
   },
   "scripts": {
     "tsc": "tsc",
